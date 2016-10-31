@@ -1,10 +1,10 @@
 #CSV Challenge
 
-Write a Ruby program to first assemble a single set of records by parsing data from 3 different file formats and then display these records sorted in 3 different ways.
+Write a program to first assemble a single set of records by parsing data from 3 different file formats and then display these records sorted in 3 different ways.
 
 ###Guidelines
 
-We hope that this exercise will allow us to evaluate your skills as a developer. The qualities that we pay special attention to are:
+We will use this exercise to evaluate your skills as a developer. The qualities that we pay special attention to are:
 
 - Simplicity/elegance of design
 - Adherence to good software engineering principles
@@ -34,3 +34,8 @@ You may assume that the delimiters (commas, pipes and spaces) do not appear anyw
 
 * Ensure that fields are displayed in the following order: last name, first name, gender, date of birth, favorite color.
 * Display dates in the format MM/DD/YYYY.
+
+
+### Meta-info
+
+> _Note: This challenge can be done in Ruby or in JavaScript with Node.js. Solutions here are in Ruby._
