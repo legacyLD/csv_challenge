@@ -1,8 +1,6 @@
 #CSV Challenge
 
-Write a program to:
- - first, assemble a single set of records by parsing data from 3 different file formats;
- - then display these records in the Terminal, sorted in 3 different ways.
+Write a program that assembles a single set of records by parsing data from 3 different file formats and then displays these records in the Terminal, sorted in 3 different ways.
 
 ###Guidelines
 
@@ -38,6 +36,12 @@ You may assume that the delimiters (commas, pipes and spaces) do not appear anyw
 * Display dates in the format MM/DD/YYYY.
 
 
-### Language Preference
+### Notes
 
-> _Note: This challenge can be done in Ruby or in JavaScript with Node.js. Solutions here are in Ruby._
+1. This challenge can be done in Ruby or in JavaScript with Node.js. Solutions here are in Ruby.  
+1. Think about how you can break the problem down into smaller parts.   
+1. Think about how you can make your solution adhere to best practices.  
+1. Research portions of the task that are unfamiliar.  You might want to use search terms like "file io" and/or "csv". 
+
+
+
