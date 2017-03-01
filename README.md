@@ -1,3 +1,35 @@
+### Approaching a Take-Home Challenge
+
+1. Read the prompt carefully. Note any questions for your recruiter and anything you don't know how to do yet.
+
+1. Ask questions to clarify the problem, if you need to.
+
+1. Plan your general strategy for solving the problem.  Prioritize which parts seem most important.
+
+1. Create code 'stubs' or 'skeletons' that capture your plan.
+
+1. Quickly build key parts you already know how to build.  
+
+1. Research and build all other parts in order of what seems easiest or most important.
+
+
+
+### Key Strategies
+
+1. Document your thinking. This could include a simple readme that has your planning notes and links to resources you found, 'stubs' or 'skeleton code' that shows the structure you are building out, comments, or tests.  This includes "next steps" - save time at the end of the timeframe to document where you left off and how you would complete the problem.
+
+1. Consider best practices for code structure. Object-oriented code is considered a sign of a more mature developer, compared to functional code. Code that doesn't use functions is probably not DRY and generally less maintainable.
+
+1. Consider best practices for software development workflow.  Track your work with version control like git.  Check with your recruiter before you publish information about a company's take-home challenge on GitHub or similar sites, though.  
+
+1. Follow submission instructions. Make sure you understand the format the company wants your submission in and when they want it by (time and day).
+
+
+### Sample Rubric
+
+(Sample Rubric)[https://docs.google.com/document/d/1NYr6nu0rL89AKTL_43gEQEg2oydSp2ezva3RhGvY8Ws/edit?usp=sharing]
+
+\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\
 #CSV Challenge
 
 Write a program that assembles a single set of records by parsing data from 3 different file formats and then displays these records in the Terminal, sorted in 3 different ways.
@@ -36,12 +68,54 @@ You may assume that the delimiters (commas, pipes and spaces) do not appear anyw
 * Display dates in the format MM/DD/YYYY.
 
 
+### Class Notes
+
+1. Read prompt carefully, noting research needs
+2. Ask questions to clarify problem, if needed
+3. Plan general structure/strategy and priorities
+4. Quickly build key parts you know
+5. Research and build parts you didn't know, in order of importance (research most important parts of code first)
+
 ### Notes
 
-1. This challenge can be done in Ruby or in JavaScript with Node.js. Solutions here are in Ruby.  
-1. Think about how you can break the problem down into smaller parts.   
-1. Think about how you can make your solution adhere to best practices.  
-1. Research portions of the task that are unfamiliar.  You might want to use search terms like "file io" and/or "csv". 
+1. What would you ask your recruiter?
+
+- what are the deliverables?
+- how would you like this delivered?
+- what language?
+
+2. This challenge can be done in Ruby or in JavaScript with Node.js. Solutions here are in Ruby.  
+3. Think about how you can break the problem down into smaller parts.
+  1. Pull in files as arguments
+  2. Parse three kinds of files into same format
+  3.
+
+  - write function
+  	- if  pipe file do this
+  	- if css file do this
+  	- if
+4. Think about how you can make your solution adhere to best practices.  
+5. Research portions of the task that are unfamiliar.  You might want to use search terms like "file io" and/or "csv".
+  - http://csv.adaltas.com/parse/examples/
+  - https://nodejs.org/api/fs.html
+  - https://developer.mozilla.org/en-US/Add-ons/Code_snippets/File_I_O
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  -
